@@ -44,7 +44,7 @@ class Bank:
 
 accounts = {}
 print('Welcome User')
-while (True):
+while True:
         print("Enter 1 to create an account:")
         print("Enter 2 to deposit money")
         print("Enter 3 to withdraw money")
