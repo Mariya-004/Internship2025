@@ -1,0 +1,33 @@
+Vector Database
+
+A vector database is a special kind of database designed to store, manage and search vector embeddings effectively. Vector embeddigs are high dimensional
+representations of datas like: text, images, audio or video produced by ML models, particularly deep learning models.
+
+Key concepts:
+
+1.Vector Embedding: numerical representations(vectors) that capture the semantic features or meaning of data.
+2.Similarity Search: instead of traditional keyword-based search, vector databases use similarity search to find the most relevant vectors based on distance metrics like cosine similarity or Euclidean distance.
+3.High Dimensional Space: vector embeddings are often high dimensional (hundreds or thousands of dimensions), making traditional indexing methods ineffective.
+4.Approximate Nearest Neighbors (ANN): many vector databases use ANN algorithms to speed up the search process by approximating the nearest neighbors instead of calculating exact distances.
+
+
+Use Cases:
+
+1. Natural Language Processing (NLP): vector databases are used to store word embeddings, sentence embeddings, and document embeddings for tasks like semantic search, recommendation systems, and chatbots.
+2. Image and Video Retrieval: vector databases can store image and video embeddings for tasks like content-based image retrieval, facial recognition, and video analysis.
+3. Audio Analysis: vector databases can store audio embeddings for tasks like speech recognition, music recommendation, and sound classification.
+4. Recommendation Systems: vector databases can store user and item embeddings for personalized recommendations based on user preferences and behavior.
+5. Anomaly Detection: vector databases can store embeddings of normal and anomalous data for tasks like fraud detection, network security, and fault detection.
+6. Drug Discovery: vector databases can store molecular embeddings for tasks like drug discovery, protein folding, and genomics.
+
+Examples of Vector Databases:
+
+1. Pinecone: a managed vector database service that provides fast and scalable similarity search for machine learning applications.
+2. Weaviate: an open-source vector database that provides a GraphQL interface for semantic search and knowledge graph applications.
+3. Milvus: an open-source vector database designed for high-performance similarity search and analytics on large-scale data.
+4. Faiss: a library for efficient similarity search and clustering of dense vectors, developed by Facebook AI Research.
+5. Annoy: a C++ library with Python bindings for approximate nearest neighbor search in high-dimensional spaces, developed by Spotify.
+6. Qdrant: an open-source vector search engine that provides a RESTful API for similarity search and analytics on large-scale data.
+7. Chroma: an open-source vector database designed for fast and efficient similarity search on large-scale data.
+
+
