@@ -20,7 +20,9 @@ results = collection.query(
     n_results=2
 )
 print(results)
-
+# print the sample data
+result = collection.get(ids=["id1"])
+print(result)
 #to save the data in a file
 
 client = chromadb.PersistentClient(path="chroma_db")
