@@ -1,0 +1,32 @@
+Chunking
+
+Chunnking is a process of breaking down complex information into smaller, more manageable pieces or "chunks." This technique is often used in 
+various fields, including education, cognitive psychology, and data processing, to improve understanding and retention of information. 
+By organizing information into smaller units, individuals can better comprehend and remember the material. 
+In the context of AI and prompt engineering, chunking refers to the practice of dividing a large prompt or input into smaller, more focused 
+segments.
+This can help the AI model process the information more effectively and generate more relevant responses.
+
+Chunking can be applied in various ways, such as:
+
+1. Breaking down complex questions: Instead of asking a broad or complicated question, break it into smaller, more specific questions that the 
+AI can address one at a time.
+Example
+- Instead of asking "What are the causes and effects of climate change?" you might ask "What are the main causes of climate change?" followed 
+by "What are the effects of climate change on the environment?"
+
+2. Dividing long texts: If you have a lengthy passage or document, consider breaking it into smaller sections or paragraphs. This can help the AI
+model focus on specific parts of the text and provide more accurate summaries or analyses.
+Example
+- Instead of providing a long article in one go, you might break it into sections and ask the AI to summarize each section individually.
+
+3. Using bullet points or lists: When presenting information, consider using bullet points or numbered lists to organize the content. 
+This can make it easier for the AI model to process and understand the information.
+Example
+- Instead of writing a long paragraph about the benefits of exercise, you might create a list of bullet points highlighting each benefit.
+
+4. Providing context in chunks: When asking the AI to generate a response, consider providing context or background information in smaller chunks.
+This can help the AI model better understand the context and generate more relevant responses.
+Example
+- Instead of providing a long background on a historical event, you might break it into smaller sections, such as the causes, key figures, and
+  consequences, and ask the AI to address each section separately.
