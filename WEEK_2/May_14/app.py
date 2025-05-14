@@ -35,7 +35,7 @@ def get_text_chunks(text):
 
 #creating the embeddings
 def get_vector_store(text_chunks):
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=os.getenv("GOOGLE_API_KEY"))
     vector_store = Chroma.from_texts(text_chunks, embeddings,persist_directory="chroma_store")
     vector_store.persist() #saving the vector store locally
     
@@ -46,14 +46,14 @@ def get_conversation_chain():
     Question: {question}
     Answer: """
 
-    model=ChatGoogleGenerativeAI(model="models/gemini-2.0-flash",temperature=0.3)
+    model=ChatGoogleGenerativeAI(model="models/gemini-2.0-flash",temperature=0.3, google_api_key=os.getenv("GOOGLE_API_KEY"))
     prompt=PromptTemplate(template=prompt_template, input_variables=["context","question"])
     chain=load_qa_chain(model,chain_type="stuff",prompt=prompt) #stuff does internal text summarization
     return chain
 
 #getting user input
 def user_input_handler(user_input):
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=os.getenv("GOOGLE_API_KEY"))
     new_db = Chroma(persist_directory="chroma_store",embedding_function= embeddings)
     docs= new_db.similarity_search(user_input)
     chain = get_conversation_chain()
@@ -88,4 +88,4 @@ def main():
         else:
             st.error("Please enter a question.")
 if __name__ == "__main__":
-    main()
+        main()
