@@ -1,0 +1,40 @@
+Comparison between Single Agent and Multi Agent RAG
+
+1. SINGLE AGENT RAG
+
+   - Single agent RAG is a single agent that can perform tasks independently.
+   - It has a limited scope of action and can only handle one task at a time.
+   - The performance of a single agent RAG is limited by its own capabilities and resources.
+   - It can be more efficient in terms of resource usage since it does not have to share resources with other agents.
+   - However, it may struggle with complex tasks that require multiple agents to collaborate.
+
+ADVANTAGES
+   - Simplicity: Single agent RAG is simpler to implement and manage.
+   - Lower resource requirements: It requires fewer resources compared to multi agent RAG.
+   - Easier to debug: Since there is only one agent, it is easier to identify and fix issues.
+    - Less communication overhead: There is no need for coordination and communication between multiple agents.
+
+DISADVANTAGES
+    - Limited capabilities: Single agent RAG may not be able to handle complex tasks that require multiple agents.
+    - Lack of collaboration: It cannot benefit from the collaboration and specialization of multiple agents.
+    - Inflexibility: It may struggle to adapt to changing environments or tasks that require multiple skills.
+
+2. MULTI AGENT RAG
+    - Multi agent RAG consists of multiple agents that can work together to perform tasks.
+    - Each agent can specialize in different areas, allowing for a more efficient division of labor.
+    - The performance of a multi agent RAG is enhanced by the collaboration and communication between agents.
+    - It can handle more complex tasks and adapt to changing environments more effectively.
+    - However, it may require more resources and coordination to manage multiple agents.
+    - The performance of a multi agent RAG can be affected by the communication overhead and coordination challenges.
+
+ADVANTAGES
+    - Enhanced capabilities: Multi agent RAG can handle complex tasks that require multiple agents.
+    - Collaboration: Agents can work together and share resources, leading to improved performance.
+    - Flexibility: It can adapt to changing environments and tasks more effectively.
+    - Specialization: Each agent can specialize in different areas, leading to more efficient task completion.
+
+DISADVANTAGES
+    - Complexity: Multi agent RAG is more complex to implement and manage.
+    - Higher resource requirements: It requires more resources compared to single agent RAG.
+    - Communication overhead: There is a need for coordination and communication between multiple agents, which can lead to delays and inefficiencies.
+    - Debugging challenges: Identifying and fixing issues can be more difficult due to the presence of multiple agents.
