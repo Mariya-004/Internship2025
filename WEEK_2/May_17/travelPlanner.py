@@ -1,75 +1,61 @@
-import autogen
+import asyncio
+from autogen_agentchat.agents import AssistantAgent
+from autogen_agentchat.conditions import TextMentionTermination
+from autogen_agentchat.teams import RoundRobinGroupChat
+from autogen_agentchat.ui import Console
+from autogen_ext.models.openai import OpenAIChatCompletionClient
 import os
 from dotenv import load_dotenv
 
 load_dotenv()
+async def main():
+    model_client = OpenAIChatCompletionClient (
+        model="gemini-1.5-flash-8b",
+        api_key=os.getenv("API_KEY") # Load from .env
+    )
+   
 
-config_list = [
-    {
-        'model': 'gemini-1.5-flash',
-        'api_key': os.getenv("API_KEY"),  # Load from .env
-        'api_type': 'google'
-    }
-]
-print("API_KEY from env:",os.getenv("API_KEY"))  # Debugging line to check if API key is loaded correctly
 
-llm_config = {
-    "seed": 42,
-    "config_list": config_list,
-    "temperature": 0.7,
-}
-
-# Define the agents
-planner_agent = autogen.AssistantAgent(
+    # Define the agents
+    planner_agent = AssistantAgent(
     name="planner_agent",
-    llm_config=llm_config,
+    model_client=model_client,
+    description="A helpful assistant that can plan trips.",
     system_message="You are a helpful assistant that can suggest a travel plan for a user based on their request."
-)
+    )
 
-local_agent = autogen.AssistantAgent(
+    local_agent = AssistantAgent(
     name="local_agent",
-    llm_config=llm_config,
+    model_client=model_client,
+    description="A local assistant that can suggest local activities or places to visit.",
     system_message="You are a helpful assistant that can suggest authentic and interesting local activities or places to visit for a user."
-)
+    )
 
-language_agent = autogen.AssistantAgent(
+    language_agent =AssistantAgent(
     name="language_agent",
-    llm_config=llm_config,
+    model_client=model_client,
+    description="A helpful assistant that can provide language tips for a given destination.",
     system_message="You are a helpful assistant that provides tips for language and communication challenges for travelers."
-)
+    )
 
-summary_agent = autogen.AssistantAgent(
+    summary_agent =AssistantAgent(
     name="travel_summary_agent",
-    llm_config=llm_config,
+    model_client=model_client,
+    description="A helpful assistant that can summarize the travel plan.",
     system_message="You are a helpful assistant that integrates all suggestions into a final detailed travel plan. When complete, respond with TERMINATE."
-)
+    )
 
-# User Proxy Agent to control termination
-user_proxy = autogen.UserProxyAgent(
-    name="user_proxy",
-    human_input_mode="TERMINATE",
-    max_consecutive_auto_reply=10,
-    is_termination_msg=lambda x: x.get("content", "").rstrip().endswith("TERMINATE"),
-    llm_config=llm_config,
-    system_message="""Reply TERMINATE if the task has been solved fully. Otherwise, reply CONTINUE or explain why it's not solved yet.""",
-    code_execution_config={"use_docker": False}
-)
+    # Create a group chat with the agents
+    termination =  TextMentionTermination("TERMINATE") # This will terminate the group chat when any agent mentions "TERMINATE"
+    group_chat = RoundRobinGroupChat(
+    [planner_agent, local_agent, language_agent, summary_agent],
+    termination_condition=termination
+    )
+    await Console(group_chat.run_stream(task="Plan a 3 day trip to Turkey."))
 
-# Define task
-task = "Plan a 3-day trip to London."
+    await model_client.close()
 
-# Initiate chat flow
-group_chat = autogen.GroupChat(
-    agents=[planner_agent, local_agent, language_agent, summary_agent],
-    messages=[],
-    max_round=10
-)
-manager = autogen.GroupChatManager(
-    groupchat=group_chat,
-    llm_config=llm_config
-)
-
-user_proxy.initiate_chat(
-    manager,
-    message=task
-)
+#run the main function
+if __name__ == "__main__":
+    asyncio.run(main())
+    
