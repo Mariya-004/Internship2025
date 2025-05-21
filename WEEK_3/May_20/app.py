@@ -33,14 +33,6 @@ def run_pylint(code:str)->str:
         return f"Pylint failed {e}"
     return output.getvalue()
 
-def extract_code_from_message(message):
-    # Extract the code from the message
-    # Assuming the code is enclosed in triple backticks
-    if "```" in message:
-        start = message.index("```") + 3
-        end = message.rindex("```")
-        return message[start:end].strip()
-    return None
 
 
 
