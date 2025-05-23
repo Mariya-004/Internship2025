@@ -1,0 +1,15 @@
+
+selenium==4.20.0
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+
+asyncio
+
+
+autogen-ext  
+autogen-agentchat  
+
+
+openai>=1.0.0  
+
+

@@ -1,0 +1,216 @@
+(autogen) PS C:\Users\Mariya\OneDrive\Desktop\Internship2025\WEEK_3\May_19> python app.py
+
+DevTools listening on ws://127.0.0.1:51672/devtools/browser/2d9a3615-edc2-4d5f-b341-39e0cf307e1d
+---------- TextMessage (user) ----------
+https://en.wikipedia.org/wiki/Dora_the_Explorer
+---------- ToolCallRequestEvent (Researcher) ----------
+[FunctionCall(id='', arguments='{"url":"https://en.wikipedia.org/wiki/Dora_the_Explorer"}', name='fetch_page')]
+---------- ToolCallExecutionEvent (Researcher) ----------
+[FunctionExecutionResult(content='Chris Gifford\nValerie Walsh Valdes\nEric Weiner\nDora and the Lost City of Gold\nDora the Explorer(globalized versions)\nGo, Diego Go!\nDora and Friends: Into the City!\nDora\nDora the Exploreris an Americanmedia franchisecentered on an eponymous animatedinteractivefourth wallchildren\'s 
+television seriescreated byChris Gifford, Valerie Walsh Valdes, and Eric Weiner, and produced byNickelodeon Animation Studio. The series originally ran 
+onNickelodeonfrom August 14, 2000, to June 5, 2014, with the final six unaired episodes later airing from July 7 to August 9, 2019.[1]It has
+ since spawned aspin-offtelevision series (Go, Diego, Go!), asequeltelevision series (Dora and Friends: Into the City!),a live-action feature filmanda reboot.[2]As of 2014, retail sales for the franchise exceeded $13 billion,[3]making it one of thehighest-grossing media franchisesof all time.\nTelevision series\nDora the Explorer\nDora the Explorer revolved around a young girl named Dora of Latin American origin and her best friend, Boots the Monkey. The show usually revolves around a problem or a goal presented to the characters at the start of the show, for which they had to go on a mission in order to achieve that goal. It is also a Spanish-language teaching show, to teach kids Spanish.\nGo, Diego, Go!\nDora and Friends: Into the City!\nDora\nFilms\nDora and the Lost City of Gold\nDora and the Lost City of Goldis a 2019 Americanadventure comedy filmdirected byJames Bobinfrom a screenplay written byNicholas Stollerand Matthew Robinson and a lmstory byTom Wheelerand Stoller.\nIn development\nOn May 8, 2024, it was announced that Samantha Lorraine was set to star in a newDora the Explorerfilm with Alberto Belli directing the film.[4]\nShort film\nDora and the Fantastical Creatures\nDora and the Fantastical Creaturesis a 2023 American animatedshort filmdirected by William Mata from a screenplay by Alejandro Bien-Willner and a story by Bien-Willner and Sean Gill.\nStage adaptations\nTwo stage versions of the series toured North America, the first being "City of Lost Toys", and the second being "Dora\'s Pirate Adventure". Produced by Nickelodeon andLiveNation, these productions featured live actors portraying the roles of Dora and her friends, including Boots, Diego, Isa, and the Fiesta Trio. Many of the characters wore elaborate foam costumes designed to resemble the Dora characters. Each production featured a structure similar to an episode of the television series. City of Lost Toys featuredChristina Biancoas Dora while Dora\'s Pirate Adventure featured Danay Ferrer of the bandInnosensein the role of Dora andFrankie Grandeas Boots. Both productions featured a version of the popularGloria Estefansong "Get On Your Feet" as the final number of the show. Both productions were conceived by Chris Gifford, creator of the television show, and directed by Gip Hoppe.\nThere have been three Dora touring companies. The "City of Lost Toys" company and the "Pirate Adventure" company featured actors and crew that were members ofActor\'s EquityandIATSE, the respective unions for professional actors and stagehands in the United States. The third company performs a reduced version of "Pirate Adventure" and does not employ union personnel. This production is currently touring North America, and scheduled to travel to the United Kingdom and France.\nMerchandise\nMany action figures and playsets are available in many markets, along with cosmetics, hygiene products, ride-ons, books, board games, plush dolls, apparel, handbags, play tents, play kitchens, and more. Licensees includeMattel-ownedFisher-Pricein the United States andHolland Publishingin the United Kingdom.\nToys\nIn 2004,Legoreleased four sets based on the characters of the TV series. These include7330 Dora\'s Treasure Island,7331 Diego\'s Rescue Truck,7332 Dora and Boots at Play Park, and7333 Dora and Diego\'s Animal Adventure.\nIn 2007, lead paint used by a contract toy manufacturer in China prompted Mattel to issue recalls for nearly a million toys, many of which featuredSesame Streetand Nickelodeon characters - including Dora the Explorer. In response, Nickelodeon stated that they would introduce "third-party monitoring" of all manufacturers of products under its brands.[5][6][7]\nBooks\nDora\'s Backpack(ISBN978-0689847202)\nLittle Star(ISBN978-0689847219)\nHappy Mother\'s Day Mami!(ISBN978-0689852336)\nMeet Diego!(ISBN978-0689859939)\nDora\'s Thanksgiving(ISBN978-0689858420)\nDora Loves Boots(ISBN978-0689863738)\nDora\'s Book of Manners(ISBN978-0689865336)\nDora Goes to School(ISBN978-0689864940)\nDora\'s Fairy-Tale Adventure(ISBN978-0689870125)\nDora\'s Chilly Day(ISBN978-0689867958)\nShow Me Your Smile!(ISBN978-0689871696)\nDora\'s Pirate Adventure(ISBN978-0689875830)\nBig Sister Dora!(ISBN978-0689878466)\nAt the Carnival(ISBN978-0689858413)\nDora\'s Costume Party!(ISBN978-1416900108)\nDance to the Rescue(ISBN978-1416902164)\nDora\'s Starry Christmas(ISBN978-1416902492)\nSuper babies(ISBN978-1416914853)\nThe Birthday Dance Party(ISBN978-1416913030)\nDora\'s World Adventure(ISBN978-1416924470)\nDora Climbs Star Mountain(ISBN978-1416940593)\nIt\'s Sharing Day!(ISBN978-1416915751)\nDora Had a Little Lamb(ISBN978-1416933687)\nDora Saves Mermaid Kingdom!(ISBN978-1416938415)\nDora and the Stuck Truck(ISBN978-1416947998)\nDora\'s Picnic(ISBN978-0689852381)\nFollow Those Feet!(ISBN978-0689852398)\nDora in the Deep Sea(ISBN978-0689858451)\nI Love My Papi!(ISBN978-0689864957)\nSay "Cheese!"(ISBN978-0689864964)\nThe Halloween Cat(ISBN978-0689867996)\nEggs for Everyone!(ISBN978-0689871764)\nJust Like Dora!(ISBN978-0689876752)\nI Love My Mami!(ISBN978-1416906506)\nPuppy Takes a Bath(ISBN978-1416914839)\nAround the World!(ISBN978-1416924784)\nDora\'s Sleepover(ISBN978-1416915089)\nDora Helps Diego!(ISBN978-1416915096)\nDora\'s Perfect Pumpkin(ISBN978-1416934387)\nDora\'s Mystery of the Missing Shoes(ISBN978-1416938248)\nGood Night, Dora!: A Lift-the-Flap Story(ISBN978-0689847745)\nWhere Is Boots?: A Lift-the-Flap Story(ISBN978-0689847752)\nLet\'s Play Sports!: A Lift-the-Flap Story(ISBN978-1416933502)\nAll Dressed Up!: A Lift-the-Flap Book(ISBN978-0689877186)\nDora\'s Ready-to-Read Adventures(ISBN978-0689878152)Contains: "Dora\'s Picnic", "Follow Those Feet", "Dora in the Deep Sea", "I love my Papi!", "Say \'Cheese\'"\nDora\'s Storytime Collection(ISBN978-0689866234)Contains: "Dora\'s Backpack", "Little Star", "Happy Birthday", "Mami!", "Meet Diego!", "Dora Saves the Prince", "Dora\'s Treasure Hunt", "Good Night", "Dora!"\nDora\'s Big Book of Stories(ISBN978-1416907084)Contains: "Dora\'s Book of Manners", "Dora Goes to School", "Dora\'s Fairy-Tale Adventure", "Dora\'s Chilly Day", "Show Me Your Smile!", "Dora\'s Pirate Adventure", "Big Sister Dora!"\nDora\'s Magic Watering Can(ISBN978-1416947721)\nVideo games\nVideo gamesbased on the show were released. In Canada,Cheeriosoffered freeDora the Explorer the GameCD-ROMsin specially marked packages; however, packages sold inQuebechad only the French version.Dora the Explorer: Barnyard Buddiesis the first video game based on the show for the home consoles as it was released for thePlayStationin the U.S. in 2003. It was not released in Europe until 2005 when it was one of the last games released on that platform in that territory as the PlayStation declined in production as well as all production on other PS1 games the following year.\nSoundtrack\nAudiovisual viewing\nSeasons ofDora the Explorerare available on a variety of streaming or direct-purchase video services.\nHome videos/Home media\nStreaming\nDirect purchase\nSeasons 1–8[17]\nMarch 2020[18][19][20]\nSeasons 1–7[21]\nSeason 1–8[22]\nNotes\n^The show\'s run ended on June 5, 2014, with six episodes,[1]however, those episodes did not air in the United States until August 9, 2019, with the premiere ofDora and the Lost City of Gold.[2]\nReferences\n^Jump up to:abCouch, Aaron (10 August 2018)."\'Dora the Explorer\' Movie: See Photo of Isabela Moner as Dora".The Hollywood Reporter.Penske Media Corporation. Archived fromthe originalon 19 December 2022. Retrieved19 December2022.Dora aired on Nickelodeon for 172 episodes from 2000 to 2014.\n^Jump up to:abBautista, Ashley (July 22, 2022)."TikTok ghost trend sparks users to use AI Manga filter to \'uncover spirits\'".Here is the City (HITC). Archived fromthe originalon 19 December 2022. Retrieved18 December2022.After nearly a decade of gifting many adventures to children of all ages, Dora wrapped up her character in 2019.\n^Villarreal, Yvonne (August 18, 2014)."Dora the Explorer is growing up and getting a spinoff series".Los Angeles Times. Archived fromthe originalon August 18, 2014. RetrievedApril 16,2024.\n^Kit, Borys (2024-05-08)."New \'Dora the Explorer\' Movie to Star \'You Are So Not Invited to My Bat Mitzvah\' Actress Samantha Lorraine (Exclusive)".The Hollywood Reporter. Retrieved2024-05-08.\n^Addley, Esther (8 March 2007)."Mattel recalls nearly 100,000 toys after lead paint alert".The Guardian. London. Retrieved6 July2008.\n^Gregory, Angela (3 August 2007)."Dora the Explorer leads toy giant\'s recall".The New Zealand Herald. Archived fromthe originalon 23 October 2012. Retrieved7 July2008.\n^Story, Louise (2 August 2007)."Lead Paint Prompts Mattel to Recall 967,000 Toys".The New York Times. Retrieved6 July2008.\n^Spangler, Todd (25 May 2020)."Best Video Streaming Services: Netflix, HBO Max, Disney Plus, Hulu, Amazon, Apple TV Plus".Variety. Retrieved27 May2020.\n^"Dora the Explorer | Streamed".10 Play. Retrieved2 June2020.\n^"Dora the Explorer | Streamed".Amazon Prime Video. Retrieved24 May2020.\n^"Dora the Explorer".Paramount+. April 6, 2003. Retrieved4 March2021.\n^Goldberg, Lesley (25 November 2019)."Nickelodeon Content Coming to CBS All Access".The Hollywood Reporter.Archivedfrom the original on 19 December 2022. Retrieved13 June2022.\n^"Foxtel".Foxtel. Archived fromthe originalon May 31, 2020. Retrieved2 June2020.\n^"Dora the Explorer | Streamed".Noggin. Retrieved24 May2020.\n^Spangler, Todd (September 2017)."Vámonos! \'Dora the Explorer\' Episodes Arrive on Nickelodeon\'s Noggin Streaming App".Variety. Retrieved27 May2020.\n^"Dora the Explorer | Streamed".Vudu. Retrieved24 May2020.\n^"Dora the Explorer".Apple TV+. August 13, 2000. Retrieved27 May2020.\n^"Noggin extends free trial globally".Advanced Television. 2 April 2020. Retrieved27 May2020.\n^Milligan, Mercedes (24 April 2020)."Noggin Launches on Apple TV in 25+ Territories, More Than 20 Languages".Animation Magazine. Retrieved27 May2020.\n^Clover, Julian (24 April 2020)."Noggin makes Apple TV debut".Broadband TV News. Retrieved27 May2020.\n^"Dora the Explorer | Streamed".Google Play. Retrieved2 June2020.\n^"Dora the Explorer | Streamed".Microsoft Store. Retrieved2 June2020.\nv\nt\ne\nDora the Explorerepisodeshome media releases\nepisodes\nhome media releases\nDora and Friends: Into the City!episodes\nepisodes\nGo, Diego, Go!episodes\nepisodes\nDora\nDora and the Lost City of Gold\nDora and the Search for Sol Dorado\nDora and the Fantastical Creatures\nDora the Explorer: Journey to the Purple Planet\nDora\'s Party Favorites\n"Todos Juntos"\nv\nt\ne\nAnchorman\nThe Bad News Bears\nBeverly Hills Cop\nCloverfield\nCrocodile Dundee\nThe Crow\nChildren of the Corn\nDeath Wish\nDungeons & Dragons\nFriday the 13th\nG.I. Joe\nThe Godfather\nIndiana Jones¶\nJack Ryan\nMeet the Parents\nMission: Impossible\nThe Naked Gun\nGrease\nThe Saint\nThe Nutty Professor\nParanormal Activity\nA Quiet Place\nThe Ring\nScream\nSonic the Hedgehog\nSmile\nStar Trekfilms\nfilms\nTeenage Mutant Ninja Turtlesfilms\nTerminator\nTop Gun\nTransformers\nWatchmen#\nThe Amazing Race\nCSI\nThe Late Show\nLenkov-verse\nNCIS\nThe Twilight Zone\nBeavis and Butt-Head\nJackass\nSouth Park\nTeen Wolf\nAvatar: The Last Airbender\nBarnyard(series)\nDangerverse\nFred\nDora the Explorer\nThe Fairly OddParents(films)\nThe Loud House\nJimmy Neutron§\nRugrats§ (films)\nSpongeBob SquarePants§ (films)\nTeenage Mutant Ninja Turtles§\nWinx Club\n§ Shared withParamount Pictures\n¶ Shared withLucasfilm\n# Shared withWarner Bros.\nCategory\nTelevision\nFilm\nUnited States\nTelevision\nComics', name='fetch_page', call_id='', is_error=False)]
+---------- ToolCallSummaryMessage (Researcher) ----------
+Chris Gifford
+Valerie Walsh Valdes
+Eric Weiner
+Dora and the Lost City of Gold
+Dora the Explorer(globalized versions)
+Go, Diego Go!
+Dora and Friends: Into the City!
+Dora
+Dora the Exploreris an Americanmedia franchisecentered on an eponymous animatedinteractivefourth wallchildren's television seriescreated byChris Gifford, Valerie Walsh Valdes, and Eric Weiner, and produced byNickelodeon Animation Studio. The series originally ran onNickelodeonfrom August 14, 2000, to June 5, 2014, with the final six unaired episodes later airing from July 7 to August 9, 2019.[1]It has since spawned aspin-offtelevision series (Go, Diego, Go!), asequeltelevision series (Dora and Friends: Into the City!),a live-action feature filmanda reboot.[2]As of 2014, retail sales for the franchise exceeded $13 billion,[3]making it one of thehighest-grossing media franchisesof all time.
+Television series
+Dora the Explorer
+Dora the Explorer revolved around a young girl named Dora of Latin American origin and her best friend, Boots the Monkey. The show usually revolves around a problem or a goal presented to the characters at the start of the show, for which they had to go on a mission in order to achieve that goal. It is also a Spanish-language teaching show, to teach kids Spanish.
+Go, Diego, Go!
+Dora and Friends: Into the City!
+Dora
+Films
+Dora and the Lost City of Gold
+Dora and the Lost City of Goldis a 2019 Americanadventure comedy filmdirected byJames Bobinfrom a screenplay written byNicholas Stollerand Matthew Robinson and a lmstory byTom Wheelerand Stoller.
+In development
+On May 8, 2024, it was announced that Samantha Lorraine was set to star in a newDora the Explorerfilm with Alberto Belli directing the film.[4]
+Short film
+Dora and the Fantastical Creatures
+Dora and the Fantastical Creaturesis a 2023 American animatedshort filmdirected by William Mata from a screenplay by Alejandro Bien-Willner and a story by Bien-Willner and Sean Gill.
+Stage adaptations
+Two stage versions of the series toured North America, the first being "City of Lost Toys", and the second being "Dora's Pirate Adventure". Produced by Nickelodeon andLiveNation, these productions featured live actors portraying the roles of Dora and her friends, including Boots, Diego, Isa, and the Fiesta Trio. Many of the characters wore elaborate foam costumes designed to resemble the Dora characters. Each production featured a structure similar to an episode of the television series. City of Lost Toys featuredChristina Biancoas Dora while Dora's Pirate Adventure featured Danay Ferrer of the bandInnosensein the role of Dora andFrankie Grandeas Boots. Both productions featured a version of the popularGloria Estefansong "Get On Your Feet" as the final number of the show. Both productions were conceived by Chris Gifford, creator of the television show, and directed by Gip Hoppe.
+There have been three Dora touring companies. The "City of Lost Toys" company and the "Pirate Adventure" company featured actors and crew that were members ofActor's EquityandIATSE, the respective unions for professional actors and stagehands in the United States. The third company performs a reduced version of "Pirate Adventure" and does not employ union personnel. This production is currently touring North America, and scheduled to travel to the United Kingdom and France.
+Merchandise
+Many action figures and playsets are available in many markets, along with cosmetics, hygiene products, ride-ons, books, board games, plush dolls, apparel, handbags, play tents, play kitchens, and more. Licensees includeMattel-ownedFisher-Pricein the United States andHolland Publishingin the United Kingdom.
+Toys
+In 2004,Legoreleased four sets based on the characters of the TV series. These include7330 Dora's Treasure Island,7331 Diego's Rescue Truck,7332 Dora and Boots at Play Park, and7333 Dora and Diego's Animal Adventure.
+In 2007, lead paint used by a contract toy manufacturer in China prompted Mattel to issue recalls for nearly a million toys, many of which featuredSesame Streetand Nickelodeon characters - including Dora the Explorer. In response, Nickelodeon stated that they would introduce "third-party monitoring" of all manufacturers of products under its brands.[5][6][7]
+Books
+Dora's Backpack(ISBN978-0689847202)
+Little Star(ISBN978-0689847219)
+Happy Mother's Day Mami!(ISBN978-0689852336)
+Meet Diego!(ISBN978-0689859939)
+Dora's Thanksgiving(ISBN978-0689858420)
+Dora Loves Boots(ISBN978-0689863738)
+Dora's Book of Manners(ISBN978-0689865336)
+Dora Goes to School(ISBN978-0689864940)
+Dora's Fairy-Tale Adventure(ISBN978-0689870125)
+Dora's Chilly Day(ISBN978-0689867958)
+Show Me Your Smile!(ISBN978-0689871696)
+Dora's Pirate Adventure(ISBN978-0689875830)
+Big Sister Dora!(ISBN978-0689878466)
+At the Carnival(ISBN978-0689858413)
+Dora's Costume Party!(ISBN978-1416900108)
+Dance to the Rescue(ISBN978-1416902164)
+Dora's Starry Christmas(ISBN978-1416902492)
+Super babies(ISBN978-1416914853)
+The Birthday Dance Party(ISBN978-1416913030)
+Dora's World Adventure(ISBN978-1416924470)
+Dora Climbs Star Mountain(ISBN978-1416940593)
+It's Sharing Day!(ISBN978-1416915751)
+Dora Had a Little Lamb(ISBN978-1416933687)
+Dora Saves Mermaid Kingdom!(ISBN978-1416938415)
+Dora and the Stuck Truck(ISBN978-1416947998)
+Dora's Picnic(ISBN978-0689852381)
+Follow Those Feet!(ISBN978-0689852398)
+Dora in the Deep Sea(ISBN978-0689858451)
+I Love My Papi!(ISBN978-0689864957)
+Say "Cheese!"(ISBN978-0689864964)
+The Halloween Cat(ISBN978-0689867996)
+Eggs for Everyone!(ISBN978-0689871764)
+Just Like Dora!(ISBN978-0689876752)
+I Love My Mami!(ISBN978-1416906506)
+Puppy Takes a Bath(ISBN978-1416914839)
+Around the World!(ISBN978-1416924784)
+Dora's Sleepover(ISBN978-1416915089)
+Dora Helps Diego!(ISBN978-1416915096)
+Dora's Perfect Pumpkin(ISBN978-1416934387)
+Dora's Mystery of the Missing Shoes(ISBN978-1416938248)
+Good Night, Dora!: A Lift-the-Flap Story(ISBN978-0689847745)
+Where Is Boots?: A Lift-the-Flap Story(ISBN978-0689847752)
+Let's Play Sports!: A Lift-the-Flap Story(ISBN978-1416933502)
+All Dressed Up!: A Lift-the-Flap Book(ISBN978-0689877186)
+Dora's Ready-to-Read Adventures(ISBN978-0689878152)Contains: "Dora's Picnic", "Follow Those Feet", "Dora in the Deep Sea", "I love my Papi!", "Say 'Cheese'"
+Dora's Storytime Collection(ISBN978-0689866234)Contains: "Dora's Backpack", "Little Star", "Happy Birthday", "Mami!", "Meet Diego!", "Dora Saves the Prince", "Dora's Treasure Hunt", "Good Night", "Dora!"
+Dora's Big Book of Stories(ISBN978-1416907084)Contains: "Dora's Book of Manners", "Dora Goes to School", "Dora's Fairy-Tale Adventure", "Dora's Chilly Day", "Show Me Your Smile!", "Dora's Pirate Adventure", "Big Sister Dora!"
+Dora's Magic Watering Can(ISBN978-1416947721)
+Video games
+Video gamesbased on the show were released. In Canada,Cheeriosoffered freeDora the Explorer the GameCD-ROMsin specially marked packages; however, packages sold inQuebechad only the French version.Dora the Explorer: Barnyard Buddiesis the first video game based on the show for the home consoles as it was released for thePlayStationin the U.S. in 2003. It was not released in Europe until 2005 when it was one of the last games released on that platform in that territory as the PlayStation declined in production as well as all production on other PS1 games the following year.
+Soundtrack
+Audiovisual viewing
+Seasons ofDora the Explorerare available on a variety of streaming or direct-purchase video services.
+Home videos/Home media
+Streaming
+Direct purchase
+Seasons 1–8[17]
+March 2020[18][19][20]
+Seasons 1–7[21]
+Season 1–8[22]
+Notes
+^The show's run ended on June 5, 2014, with six episodes,[1]however, those episodes did not air in the United States until August 9, 2019, with the premiere ofDora and the Lost City of Gold.[2]
+References
+^Jump up to:abCouch, Aaron (10 August 2018)."'Dora the Explorer' Movie: See Photo of Isabela Moner as Dora".The Hollywood Reporter.Penske Media Corporation. Archived fromthe originalon 19 December 2022. Retrieved19 December2022.Dora aired on Nickelodeon for 172 episodes from 2000 to 2014.
+^Jump up to:abBautista, Ashley (July 22, 2022)."TikTok ghost trend sparks users to use AI Manga filter to 'uncover spirits'".Here is the City (HITC). Archived fromthe originalon 19 December 2022. Retrieved18 December2022.After nearly a decade of gifting many adventures to children of all ages, Dora wrapped up her character in 2019.
+^Villarreal, Yvonne (August 18, 2014)."Dora the Explorer is growing up and getting a spinoff series".Los Angeles Times. Archived fromthe originalon August 18, 2014. RetrievedApril 16,2024.
+^Kit, Borys (2024-05-08)."New 'Dora the Explorer' Movie to Star 'You Are So Not Invited to My Bat Mitzvah' Actress Samantha Lorraine (Exclusive)".The Hollywood Reporter. Retrieved2024-05-08.
+^Addley, Esther (8 March 2007)."Mattel recalls nearly 100,000 toys after lead paint alert".The Guardian. London. Retrieved6 July2008.
+^Gregory, Angela (3 August 2007)."Dora the Explorer leads toy giant's recall".The New Zealand Herald. Archived fromthe originalon 23 October 2012. Retrieved7 July2008.    
+^Story, Louise (2 August 2007)."Lead Paint Prompts Mattel to Recall 967,000 Toys".The New York Times. Retrieved6 July2008.
+^Spangler, Todd (25 May 2020)."Best Video Streaming Services: Netflix, HBO Max, Disney Plus, Hulu, Amazon, Apple TV Plus".Variety. Retrieved27 May2020.
+^"Dora the Explorer | Streamed".10 Play. Retrieved2 June2020.
+^"Dora the Explorer | Streamed".Amazon Prime Video. Retrieved24 May2020.
+^"Dora the Explorer".Paramount+. April 6, 2003. Retrieved4 March2021.
+^Goldberg, Lesley (25 November 2019)."Nickelodeon Content Coming to CBS All Access".The Hollywood Reporter.Archivedfrom the original on 19 December 2022. Retrieved13 June2022.
+^"Foxtel".Foxtel. Archived fromthe originalon May 31, 2020. Retrieved2 June2020.
+^"Dora the Explorer | Streamed".Noggin. Retrieved24 May2020.
+^Spangler, Todd (September 2017)."Vámonos! 'Dora the Explorer' Episodes Arrive on Nickelodeon's Noggin Streaming App".Variety. Retrieved27 May2020.
+^"Dora the Explorer | Streamed".Vudu. Retrieved24 May2020.
+^"Dora the Explorer".Apple TV+. August 13, 2000. Retrieved27 May2020.
+^"Noggin extends free trial globally".Advanced Television. 2 April 2020. Retrieved27 May2020.
+^Milligan, Mercedes (24 April 2020)."Noggin Launches on Apple TV in 25+ Territories, More Than 20 Languages".Animation Magazine. Retrieved27 May2020.
+^Clover, Julian (24 April 2020)."Noggin makes Apple TV debut".Broadband TV News. Retrieved27 May2020.
+^"Dora the Explorer | Streamed".Google Play. Retrieved2 June2020.
+^"Dora the Explorer | Streamed".Microsoft Store. Retrieved2 June2020.
+v
+t
+e
+Dora the Explorerepisodeshome media releases
+episodes
+home media releases
+Dora and Friends: Into the City!episodes
+episodes
+Go, Diego, Go!episodes
+episodes
+Dora
+Dora and the Lost City of Gold
+Dora and the Search for Sol Dorado
+Dora and the Fantastical Creatures
+Dora the Explorer: Journey to the Purple Planet
+Dora's Party Favorites
+"Todos Juntos"
+v
+t
+e
+Anchorman
+The Bad News Bears
+Beverly Hills Cop
+Cloverfield
+Crocodile Dundee
+The Crow
+Children of the Corn
+Death Wish
+Dungeons & Dragons
+Friday the 13th
+G.I. Joe
+The Godfather
+Indiana Jones¶
+Jack Ryan
+Meet the Parents
+Mission: Impossible
+The Naked Gun
+Grease
+The Saint
+The Nutty Professor
+Paranormal Activity
+A Quiet Place
+The Ring
+Scream
+Sonic the Hedgehog
+Smile
+Star Trekfilms
+films
+Teenage Mutant Ninja Turtlesfilms
+Terminator
+Top Gun
+Transformers
+Watchmen#
+The Amazing Race
+CSI
+The Late Show
+Lenkov-verse
+NCIS
+The Twilight Zone
+Beavis and Butt-Head
+Jackass
+South Park
+Teen Wolf
+Avatar: The Last Airbender
+Barnyard(series)
+Dangerverse
+Fred
+Dora the Explorer
+The Fairly OddParents(films)
+The Loud House
+Jimmy Neutron§
+Rugrats§ (films)
+SpongeBob SquarePants§ (films)
+Teenage Mutant Ninja Turtles§
+Winx Club
+§ Shared withParamount Pictures
+¶ Shared withLucasfilm
+# Shared withWarner Bros.
+Category
+Television
+Film
+United States
+Television
+Comics
+---------- TextMessage (TextSummarizer) ----------
+Enter your response: Dora the Explorer is a popular animated children's TV series, created by Gifford, Walsh Valdes, and Weiner.  Running on Nickelodeon from 2000-2014, it spawned spin-offs, a sequel, a live-action film, and a reboot.  The show, centered on Dora and Boots, often features problem-solving missions and Spanish language learning.  The franchise has generated over $13 billion in retail sales.  A 2019 film, *Dora and the Lost City of Gold*, followed, and further projects are in development.  Extensive merchandise, including toys, books, and video games, are also part of the franchise.
