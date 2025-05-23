@@ -56,9 +56,10 @@ async def main():
         model_client=model_client,
         description="You are a helpful debugging assistant.",
         system_message=(
-            "You're a Python debugger. Given Python code, use the function `run_pylint(code: str) -> str` "
+            "You're a Python debugger. Given Python code, use the tool `run_pylint(code: str) -> str` "
             "to find issues. Then, rewrite or suggest fixes. When the code is clean, type 'Terminate'."
-        )
+        ),
+        tools=[run_pylint],
     )
 
     termination_condition = TextMentionTermination("Terminate")
